@@ -39,7 +39,7 @@ I love challenges and solving real-world problems through programming. I believe
 
 ### Contact Me 📧
 - Email: [sadiaakhter692@gmail.com](mailto:sadia.akhter@example.com)
-- LinkedIn: [https://www.linkedin.com/in/sadia-akhter-45992b280/](#)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/sadia-akhter-45992b280/)
 - GitHub: [https://github.com/sadia-10](#)
 
 ---
@@ -49,4 +49,4 @@ If you have any exciting projects, feel free to reach out! I’m always excited 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=sadia-10&label=Profile+Views&color=blue&style=flat)
